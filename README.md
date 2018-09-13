@@ -5,7 +5,7 @@ A React Native wrapper for Apple's ``UIDocumentMenuViewController`` and for Andr
 ### Installation
 
 ```bash
-npm i --save react-native-document-picker
+npm i --save balynsky/react-native-document-picker
 ```
 
 **Automatically Link Native Modules**
